@@ -10,7 +10,7 @@ degree focused in Computer Science from FITO.
 
 <div id="webaddress">
 <a href="mailto:rthiago@gmail.com">rthiago@gmail.com</a>
-| <a href="https://rthiago.github.io/markdown-cv/">https://rthiago.github.io/markdown-cv/</a>
+| <a href="https://rthiago.github.io/cv/">https://rthiago.github.io/cv/</a>
 </div>
 
 
