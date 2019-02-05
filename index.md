@@ -9,7 +9,7 @@ Oriented Design, and Scrum. Strong engineering professional with a Bachelor's
 degree focused in Computer Science from FITO.
 
 <div id="webaddress">
-<a href="rthiago@gmail.com">rthiago@gmail.com</a>
+<a href="mailto:rthiago@gmail.com">rthiago@gmail.com</a>
 | <a href="https://github.com/rthiago/markdown-cv/edit/master/index.md">This résumé</a>
 </div>
 
