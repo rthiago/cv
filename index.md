@@ -1,91 +1,87 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Thiago Silva's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Thiago Silva
+Experienced senior developer with a demonstrated history of working in the
+newspapers industry. Skilled in Python, PHP, Software Development, Object
+Oriented Design, and Scrum. Strong engineering professional with a Bachelor's
+degree focused in Computer Science from FITO.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rthiago@gmail.com">rthiago@gmail.com</a>
+| <a href="https://github.com/rthiago/markdown-cv/edit/master/index.md">This résumé</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Looking for a remote work position.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+PHP, Python, C#, MySQL, MS-SQL, Linux, Git, OOD, Scrum, Django, Laravel and
+other frameworks.
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1998-2001`
+__FITO, São Paulo.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor's degree in computer science
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+`Feb 2016 - Dec 2018`
+__Senior backend developer__, Folha de S.Paulo
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Linux, Apache, Mysql and PHP development
+- Development of company's own PHP framework
+- Technical team leader
+
+
+`Mar 2015 - Feb 2016`
+__Senior backend developer__, Titans Group
+
+- Development and maintenance of an API for a mobile e-learning app, using
+Python and Django
+
+
+`Apr 2009 - Mar 2015`
+__Senior backend developer__, Folha de S.Paulo
+
+- Linux, Apache, Mysql and PHP development
+- Development of company's own PHP framework
+- Technical team leader
+
+
+`Jul 2002 - Sep 2004`
+__Software developer__, Accenture
+
+- Development of a price checking software for a supermarket, using C#
+
+
+`Nov 2001 - Jun 2003`
+__Software developer__, hpG
+
+- Linux, Apache, Mysql and PHP development
+
+
+`Aug 1999 - Aug 2001`
+__Junior software developer__, PSINet
+
+- Visual Basic 6 development
+- Linux, Apache, Mysql and PHP development
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2019 -->
 
 
