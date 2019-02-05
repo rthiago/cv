@@ -2,15 +2,20 @@
 layout: cv
 title: Thiago Silva's CV
 ---
+
 # Thiago Silva
+
+
 Experienced senior developer with a demonstrated history of working in the
-newspapers industry. Skilled in Python, PHP, Software Development, Object
-Oriented Design, and Scrum. Strong engineering professional with a Bachelor's
-degree focused in Computer Science from FITO.
+newspapers industry and others. Skilled in Python, PHP, Software Development,
+Object Oriented Design, and Scrum. Strong engineering professional with a
+Bachelor's degree focused in Computer Science from FITO.
+
 
 <div id="webaddress">
 <a href="mailto:rthiago@gmail.com">rthiago@gmail.com</a>
-| <a href="https://rthiago.github.io/cv/">https://rthiago.github.io/cv/</a>
+|
+<a href="https://rthiago.github.io/cv/">https://rthiago.github.io/cv/</a>
 </div>
 
 
@@ -18,17 +23,26 @@ degree focused in Computer Science from FITO.
 
 Looking for a remote work position.
 
-### Specialized in
+## Specialized in
 
-PHP, Python, C#, MySQL, MS-SQL, Linux, Git, OOD, Scrum, Django, Laravel and
-other frameworks.
+- PHP
+- Python
+- C#
+- MySQL
+- MS-SQL
+- Linux
+- Git
+- OOD
+- Scrum
+- Django
+- Laravel and other frameworks
 
 
 
 ## Education
 
 `1998-2001`
-__FITO, São Paulo.__
+__FAC-FITO__, São Paulo
 
 - Bachelor's degree in computer science
 

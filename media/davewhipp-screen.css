@@ -93,11 +93,11 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -187,7 +187,7 @@ strong {
 	display: none;
 }
 
-
+#main { width: 1300px; text-align: left; margin: 0px auto; }
 
 /*
 @media only screen and (max-width: 480px) {
