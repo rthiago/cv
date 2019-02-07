@@ -28,7 +28,7 @@ Looking for a remote backend developer position.
 - Knowledge in MySQL, MS-SQL, PostgreSQL and MongoDB
 - Very good experience in SQL queries optimization
 - Experienced in Linux, Git, shell script, docker and other devops tools
-- Great experience in OOP, TDD/Unittest, Scrum, Agile, Async, REST
+- Great experience in OOP, TDD/Unittest, CI/CD, Scrum, Agile, Async, REST
 - Django, Laravel, and other frameworks
 
 
