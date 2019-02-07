@@ -23,19 +23,15 @@ Bachelor's degree focused in Computer Science from FITO.
 
 Looking for a remote work position.
 
-## Specialized in
+## Specializations
 
-- PHP
-- Python
-- C#
-- MySQL
-- MS-SQL
-- Linux
-- Git
-- OOD
-- Scrum
-- Django
-- Laravel and other frameworks
+- A+ experience in PHP
+- Decent experience in Python and C#
+- Knowledge in MySQL, MS-SQL, PostgreSQL and MongoDB
+- Very good experience in SQL queries optimization
+- Experienced in Linux, Git, Gitlab/Github, shell script, docker and other devops tools
+- Great experience in OOP, TDD/Unittest, Scrum, Agile, Async, REST
+- Django, Laravel, and other frameworks
 
 
 
