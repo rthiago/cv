@@ -70,6 +70,14 @@ __Senior backend developer__, Folha de S.Paulo
 - Technical team leader
 
 
+`Sep 2004 - Apr 2009`
+__Freelance developer__, São Paulo
+
+- Development of sites and webapps for various clients
+- C#, ASP.NET MVC and MS-SQL
+- LAMP stack
+
+
 `Jul 2002 - Sep 2004`
 __Software developer__, Accenture
 
