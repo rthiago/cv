@@ -5,6 +5,7 @@ title: Thiago Silva's CV
 
 # Thiago Silva
 
+São Paulo, Brazil
 
 Experienced senior developer with a demonstrated history of working in the
 newspapers industry and others. Skilled in Python, PHP, Software Development,
