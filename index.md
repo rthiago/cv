@@ -21,7 +21,7 @@ Bachelor's degree focused in Computer Science from FITO.
 
 ## Currently
 
-Looking for a remote work position.
+Looking for a remote backend developer position.
 
 ## Specializations
 
