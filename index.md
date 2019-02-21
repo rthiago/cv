@@ -7,7 +7,7 @@ title: Thiago Silva's CV
 
 São Paulo, Brazil
 
-Experienced senior developer with a demonstrated history of working in IT. Skilled in Python, PHP and C# software development, object oriented design, and databases. Strong engineering professional with a Bachelor's degree in Computer Science from FAC-FITO.
+Experienced senior developer skilled in Python, PHP, C# software development, object-oriented design, and databases. Strong, professional engineer with a Bachelor's degree in Computer Science from FAC-FITO.
 
 
 <div id="webaddress">
@@ -19,16 +19,16 @@ Experienced senior developer with a demonstrated history of working in IT. Skill
 
 ## Currently
 
-Looking for a remote backend developer position.
+Seeking for a remote back-end developer position.
 
 ## Specializations
 
-- A+ experience in PHP
-- Decent experience in Python, C#, Javascript and frontend development
-- Knowledge in MySQL, MS-SQL, PostgreSQL and MongoDB
-- Very good experience in SQL queries optimization
-- Experienced in Linux, Git, shell script, docker and other devops tools
-- Great experience in OOP, TDD/Unittest, CI/CD, Scrum, Agile, Async, REST
+- 12 years experience in PHP
+- Python, C#, Javascript, and front-end development
+- MySQL, MS-SQL, PostgreSQL, and MongoDB
+- SQL query debugging, and optimization
+- Linux, Git, shell script, docker, and other devops tools
+- OOP, TDD/Unittest, CI/CD, Scrum, Agile, Async, REST
 - Django, Laravel, and other frameworks
 
 
@@ -42,36 +42,36 @@ __FAC-FITO__, São Paulo
 
 
 
-## Occupation
+## Experience
 
 
 `Feb 2016 - Dec 2018`
-__Senior backend developer__, Folha de S.Paulo
+__Senior Back-end Developer__, Folha de S.Paulo
 
-- Linux, Apache, Mysql and PHP development
-- Development of company's own PHP framework
-- Technical team leader
+- Linux, Apache, MySQL, and PHP development
+- Development of company's proprietary PHP framework
+- Technical team lead
 
 
 `Mar 2015 - Feb 2016`
-__Senior backend developer__, Titans Group
+__Senior Back-end Developer__, Titans Group
 
-- Development and maintenance of an API for a mobile e-learning app
+- Development and maintenance of API for mobile e-learning application
 - Python and Django
 
 
 `Apr 2009 - Mar 2015`
-__Senior backend developer__, Folha de S.Paulo
+__Senior Back-end Developer__, Folha de S.Paulo
 
-- Linux, Apache, Mysql and PHP development
-- Development of company's own PHP framework
-- Technical team leader
+- Linux, Apache, MySQL, and PHP development
+- Development of company's proprietary PHP framework
+- Technical team lead
 
 
 `Sep 2004 - Apr 2009`
 __Freelance developer__, São Paulo
 
-- Development of sites and webapps for various clients
+- Development of sites and web applications for various clients
 - C#, ASP.NET MVC and MS-SQL
 - LAMP stack
 
@@ -79,26 +79,24 @@ __Freelance developer__, São Paulo
 `Jul 2002 - Sep 2004`
 __Software developer__, Accenture
 
-- Development of enterprise apps using the Microsoft stack
+- Development of enterprise applications using Microsoft stack
 - C#, ASP.NET MVC and MS-SQL
 
 
 `Nov 2001 - Jun 2003`
 __Software developer__, hpG
 
-- Linux, Apache, Mysql and PHP development
+- Linux, Apache, MySQL, and PHP development
 
 
 `Aug 1999 - Aug 2001`
 __Junior software developer__, PSINet
 
 - Visual Basic 6 development
-- Linux, Apache, Mysql and PHP development
+- Linux, Apache, MySQL, and PHP development
 
 
 
 <!-- ### Footer
 
 Last updated: Feb 2019 -->
-
-
