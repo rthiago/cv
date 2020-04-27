@@ -7,7 +7,7 @@ title: Thiago Silva's CV
 
 São Paulo, Brazil
 
-Experienced senior developer skilled in Python, PHP, C# software development, object-oriented design, and databases. Strong, professional engineer with a Bachelor's degree in Computer Science from FAC-FITO.
+Experienced senior developer skilled in Python, PHP and C# development. Bachelor's degree in Computer Science.
 
 
 <div id="webaddress">
@@ -23,12 +23,12 @@ Seeking for a remote back-end developer position.
 
 ## Specializations
 
-- 12 years experience in PHP
-- Python, C#, Javascript, and front-end development
+- 13 years experience in PHP
+- Also experience in Python, C# and Javascript development
 - MySQL, MS-SQL, PostgreSQL, and MongoDB
 - SQL query debugging, and optimization
 - Linux, Git, shell script, docker, and other devops tools
-- OOP, TDD/Unittest, CI/CD, Scrum, Agile, Async, REST
+- OOP, TDD/Unittest, CI/CD, Scrum, Agile, REST
 - Django, Laravel, and other frameworks
 
 
@@ -45,6 +45,15 @@ __FAC-FITO__, São Paulo
 ## Experience
 
 
+`May 2019 - current`
+__Senior Back-end Engineer__, Sweepbright
+
+- Development and maintenance of company's API for mobile and web apps
+- PHP, Laravel and MySQL
+- Other tools: AWS, CircleCI, Github, Docker
+- Full-time remote work, company based in Belgium
+
+
 `Feb 2016 - Dec 2018`
 __Senior Back-end Developer__, Folha de S.Paulo
 
@@ -58,6 +67,7 @@ __Senior Back-end Developer__, Titans Group
 
 - Development and maintenance of API for mobile e-learning application
 - Python and Django
+- Other tools: AWS, Jenkins, Docker
 
 
 `Apr 2009 - Mar 2015`
@@ -99,4 +109,4 @@ __Junior software developer__, PSINet
 
 <!-- ### Footer
 
-Last updated: Feb 2019 -->
+Last updated: May 2020 -->
